@@ -20,6 +20,12 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
   <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 10%;"  />
 </div>
 
+During my time at the university, I established strong relationships with several prominent industry companies, including the Global Energy Interconnect Research Institute(Munich), Huawei European Research Institute(Nuremberg and Munich), Tesla(San Francisco), and Nvidia(California). My role primarily involved serving as a research engineer, where I provided technical support in modeling and coding to these teams.
+<div style="text-align: center; width: 100%;">
+  <img src="/images/GEIRI.png" alt="GEIRI" style="width: auto; height: 120px; margin-right: 10%;" />
+  <img src="/images/HW.png" alt="HW" style="width: auto; height: 120px; margin-right: 10%;" />
+  <img src="/images/NVIDIA.png" alt="XP" style="width: auto; height: 120px; margin-right: 10%;" />
+</div>
 With over two years of experience in the energy sector, I've applied data-driven methods to further optimize energy systems, reduce carbon emissions, and enhance efficiency and security, resulting in contributions to publications and patents in the field. 
 
 ## Contact
