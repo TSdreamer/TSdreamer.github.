@@ -13,12 +13,13 @@ I have a strong academic background in computer engineering, including completio
 My bachelor's degree in engineering was obtained from [Southeast University](https://www.seu.edu.cn/english/) with more than 20 different level honors and awards for energy projects, and finally I was rewarded as 2019 outstanding bachelor graduates of SEU. 
 
 <div style="text-align: center; width: 100%;">
-  <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 10%;" />
-  <img src="/images/UoW34.png" alt="UoW" style="width: auto; height: 120px; margin-right: 10%;" />
-  <img src="/images/UoB.png" alt="UoB" style="width: auto; height: 120px; margin-right: 10%;" />
-  <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 10%;"  />
-  <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 10%;"  />
+  <img src="/images/mit.webp" alt="MIT" style="width: auto; height: 120px; margin-right: 5%;" />
+  <img src="/images/UoW34.png" alt="UoW" style="width: auto; height: 120px; margin-right: 5%;" />
+  <img src="/images/UoB.png" alt="UoB" style="width: auto; height: 120px; margin-right: 5%;" />
+  <img src="/images/UoN.png" alt="UoN" style="width: auto; height: 120px; margin-right: 5%;"  />
+  <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 5%;"  />
 </div>
+
 
 During my time at the university, I established strong relationships with several prominent industry companies, including the [Global Energy Interconnect Research Institute (Munich)](https://geiri.eu/), [Huawei European Research Institute (Nuremberg and Munich)](https://www.huawei.com/de/), [TESLA (San Francisco)](https://www.tesla.com/en_gb), and [Nvidia (California)](https://www.nvidia.com/en-gb/). My role primarily involved serving as a research engineer, where I provided technical support in modeling and coding to teams focusing on artificial intelligence and energy systems.
 
