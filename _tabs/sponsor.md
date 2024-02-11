@@ -1,6 +1,6 @@
 ---
 icon: fas fa-handshake
-order: 6
+order: 4
 ---
 
 # 🤝 Help Haotian Continue to Grow !
@@ -13,4 +13,4 @@ You can support Haotian and Haotian's work directly:
 - [Visit Haotian's Company's Website](https://tsuenergy.com)
 - [Donating Directly](https://www.paypal.com/paypalme/haotianma06) on PayPal
 
-Haotian : Your arrival has already made me feel grateful. Even without sponsorship, it's completely okay. I'm really looking forward to becoming friends with you.
+Your arrival has already made Haotian feel grateful. Even without any sponsorship, it's completely okay. I'm looking forward to becoming friends with you.

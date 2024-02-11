@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 6
 ---
 
 # Hi
@@ -20,7 +20,7 @@ My bachelor's degree in engineering was obtained from [Southeast University](htt
   <img src="/images/SEU.png" alt="SEU" style="width: auto; height: 120px; margin-right: 10%;"  />
 </div>
 
-During my time at the university, I established strong relationships with several prominent industry companies, including the [Global Energy Interconnect Research Institute(Munich)](https://geiri.eu/),[Huawei European Research Institute(Nuremberg and Munich)](https://www.huawei.com/de/) ,[TESLA(San Francisco)](https://www.tesla.com/en_gb) and [Nvidia(California)](https://www.nvidia.com/en-gb/). My role primarily involved serving as a research engineer, where I provided technical support in modeling and coding to teams focusing on artificial intelligence and energy systems.
+During my time at the university, I established strong relationships with several prominent industry companies, including the [Global Energy Interconnect Research Institute (Munich)](https://geiri.eu/), [Huawei European Research Institute (Nuremberg and Munich)](https://www.huawei.com/de/), [TESLA (San Francisco)](https://www.tesla.com/en_gb), and [Nvidia (California)](https://www.nvidia.com/en-gb/). My role primarily involved serving as a research engineer, where I provided technical support in modeling and coding to teams focusing on artificial intelligence and energy systems.
 
 <div style="text-align: center; width: 100%;">
   <img src="/images/GEIRI.png" alt="GEIRI" style="width: auto; height: 120px; margin-right: 10%;" />
