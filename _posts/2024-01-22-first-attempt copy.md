@@ -10,6 +10,9 @@ tags: [weekly updates]     # TAG names should always be lowercase
 comments: true
 math: true
 mermaid: true
+image:
+  path: /images/Feb.2024/math.jpg
+  alt: Here is the typical tTemplate for the following graph
 ---
 ![Desktop View](/images/0124.jpg){: width="452" height="279" }
 
