@@ -1,5 +1,5 @@
 ---
-title: 01232024 weekly update
+title: 12022024 weekly update
 date: 2024-01-23 01:13:00 +0000
 <author_id>:
   name: <Haotian MA>
@@ -11,6 +11,7 @@ comments: true
 math: true
 mermaid: true
 ---
+![Desktop View](/images/0124.jpg){: width="452" height="279" }
 
 This weekly update provides a comprehensive overview of the key developments and noteworthy events from the past week.
 Here has listed some latex version mathmatics expressions for testing and future use.
