@@ -12,7 +12,7 @@ image:
   path: /images/111.jpg
 ---
 
-# Welcome
+# Welcome to us
 
 Welcome to my Homelab channel. Here, I share my personal experiences and  achievements in the realm of sustainable energy. My goal is to contribute to a world that relies more on data-driven and sustainable energy solutions, and less on fossil fuels.
 
