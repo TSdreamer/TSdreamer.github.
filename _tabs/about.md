@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-# Hi
+# HI
 
 I'm Haotian MA, a doctoral researcher at the [University of Warwick](https://warwick.ac.uk/) focusing on applying data-driven method to accelerate the arrival of a sustainable energy fueled future.
 
